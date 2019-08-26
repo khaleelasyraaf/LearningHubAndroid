@@ -1,0 +1,5739 @@
+{
+  "recordingID": "2019-8-26-14H13M46S283",
+  "applicationName": "LearningHubAndroid",
+  "frames": [
+    {
+      "frameStamp": "00:00:05.0857049",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.71559143",
+        "Acc_Y": "6.7910004",
+        "Acc_Z": "8.000168",
+        "Gyro_X": "0",
+        "Gyro_Y": "0",
+        "Gyro_Z": "0",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.0887018",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.63461304",
+        "Acc_Y": "6.868042",
+        "Acc_Z": "6.888153",
+        "Gyro_X": "0",
+        "Gyro_Y": "0",
+        "Gyro_Z": "0",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.0907021",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.76690674",
+        "Acc_Y": "6.7491913",
+        "Acc_Z": "6.4969788",
+        "Gyro_X": "0",
+        "Gyro_Y": "0",
+        "Gyro_Z": "0",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1057020",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.76690674",
+        "Acc_Y": "6.7491913",
+        "Acc_Z": "6.4969788",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1097024",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.854126",
+        "Acc_Y": "6.6869507",
+        "Acc_Z": "6.566284",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1397111",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.66311646",
+        "Acc_Y": "6.711258",
+        "Acc_Z": "6.6807404",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1547006",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6081543",
+        "Acc_Y": "6.7867126",
+        "Acc_Z": "6.680588",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1707046",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6794586",
+        "Acc_Y": "6.787369",
+        "Acc_Z": "6.800537",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.1867029",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7094116",
+        "Acc_Y": "6.730377",
+        "Acc_Z": "6.854477",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.2177030",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7137604",
+        "Acc_Y": "6.7076263",
+        "Acc_Z": "6.674286",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.2327026",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7267456",
+        "Acc_Y": "6.741577",
+        "Acc_Z": "6.7911377",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.2517023",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.64286804",
+        "Acc_Y": "6.753418",
+        "Acc_Z": "6.8999786",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.2657029",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.61364746",
+        "Acc_Y": "6.7274323",
+        "Acc_Z": "6.897934",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.2987019",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7210541",
+        "Acc_Y": "6.7224274",
+        "Acc_Z": "6.8146667",
+        "Gyro_X": "-0.04045105",
+        "Gyro_Y": "0.01914978",
+        "Gyro_Z": "0.005340576",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3037015",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7210541",
+        "Acc_Y": "6.7224274",
+        "Acc_Z": "6.8146667",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3147011",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8554535",
+        "Acc_Y": "6.729599",
+        "Acc_Z": "6.6823425",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3337013",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.90327454",
+        "Acc_Y": "6.741577",
+        "Acc_Z": "6.814163",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3427024",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.90327454",
+        "Acc_Y": "6.741577",
+        "Acc_Z": "6.814163",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3467042",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.76400757",
+        "Acc_Y": "6.7079163",
+        "Acc_Z": "6.8066406",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3937029",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7068939",
+        "Acc_Y": "6.70578",
+        "Acc_Z": "6.83226",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.3957025",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74165344",
+        "Acc_Y": "6.6857147",
+        "Acc_Z": "7.158783",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.4117036",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.88520813",
+        "Acc_Y": "6.6631775",
+        "Acc_Z": "7.2507324",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.4267025",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.90309143",
+        "Acc_Y": "6.6501007",
+        "Acc_Z": "6.8957214",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.4717070",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9063263",
+        "Acc_Y": "6.6128845",
+        "Acc_Z": "6.810425",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.4797040",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.85665894",
+        "Acc_Y": "6.6608276",
+        "Acc_Z": "6.9513702",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.4957053",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.70391846",
+        "Acc_Y": "6.6594696",
+        "Acc_Z": "6.846039",
+        "Gyro_X": "-0.03262329",
+        "Gyro_Y": "-0.022918701",
+        "Gyro_Z": "0.004119873",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5017035",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.70391846",
+        "Acc_Y": "6.6594696",
+        "Acc_Z": "6.846039",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5207034",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.844635",
+        "Acc_Y": "6.611496",
+        "Acc_Z": "6.431427",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5477112",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.77749634",
+        "Acc_Y": "6.686966",
+        "Acc_Z": "6.6819",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5567015",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.53630066",
+        "Acc_Y": "6.587921",
+        "Acc_Z": "6.7424927",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5747038",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.112197876",
+        "Acc_Y": "6.3909607",
+        "Acc_Z": "7.0321503",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.5897024",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.0043640137",
+        "Acc_Y": "6.325653",
+        "Acc_Z": "7.9227448",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.6137013",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.0043640137",
+        "Acc_Y": "6.325653",
+        "Acc_Z": "7.9227448",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.6287018",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.17311096",
+        "Acc_Y": "6.3907776",
+        "Acc_Z": "7.429016",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.6407010",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.27516174",
+        "Acc_Y": "6.350647",
+        "Acc_Z": "6.721161",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.6527032",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.4728546",
+        "Acc_Y": "6.3773956",
+        "Acc_Z": "7.0013275",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.6727068",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.39361572",
+        "Acc_Y": "6.256668",
+        "Acc_Z": "7.8150024",
+        "Gyro_X": "-0.09892273",
+        "Gyro_Y": "0.04083252",
+        "Gyro_Z": "-0.020095825",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7097027",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.39361572",
+        "Acc_Y": "6.256668",
+        "Acc_Z": "7.8150024",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7127037",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.026367188",
+        "Acc_Y": "6.0650177",
+        "Acc_Z": "7.7930603",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7167023",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.12593079",
+        "Acc_Y": "5.904999",
+        "Acc_Z": "7.34523",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7327056",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.51846313",
+        "Acc_Y": "5.8605194",
+        "Acc_Z": "7.3042297",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7507030",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.7918396",
+        "Acc_Y": "5.8428497",
+        "Acc_Z": "7.1048126",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7827019",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.94784546",
+        "Acc_Y": "5.7570953",
+        "Acc_Z": "6.9672394",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.7987022",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.9542694",
+        "Acc_Y": "5.7290497",
+        "Acc_Z": "7.6991425",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "19.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8137035",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.9542694",
+        "Acc_Y": "5.7290497",
+        "Acc_Z": "7.6991425",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8167026",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.9515381",
+        "Acc_Y": "5.834488",
+        "Acc_Z": "9.298737",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8297074",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.6020813",
+        "Acc_Y": "5.7687683",
+        "Acc_Z": "8.8013",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8717050",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-1.2770386",
+        "Acc_Y": "5.583786",
+        "Acc_Z": "7.038559",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8827023",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-1.0171814",
+        "Acc_Y": "5.6473846",
+        "Acc_Z": "7.581543",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8937106",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.74386597",
+        "Acc_Y": "5.510956",
+        "Acc_Z": "8.621658",
+        "Gyro_X": "-0.34773254",
+        "Gyro_Y": "0.5137024",
+        "Gyro_Z": "-0.085617065",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.8997043",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.74386597",
+        "Acc_Y": "5.510956",
+        "Acc_Z": "8.621658",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.9177140",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.7620392",
+        "Acc_Y": "5.3850555",
+        "Acc_Z": "9.119476",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.9497032",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.88342285",
+        "Acc_Y": "5.4088593",
+        "Acc_Z": "8.962158",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.9597029",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.7967529",
+        "Acc_Y": "5.4479218",
+        "Acc_Z": "8.26236",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.9727030",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.17263794",
+        "Acc_Y": "5.68779",
+        "Acc_Z": "7.285263",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:05.9987053",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.18281555",
+        "Acc_Y": "5.8366394",
+        "Acc_Z": "6.9240417",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.0287037",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.3239746",
+        "Acc_Y": "5.952652",
+        "Acc_Z": "8.393448",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.0447052",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9757385",
+        "Acc_Y": "6.161682",
+        "Acc_Z": "9.249741",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.0637007",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2806854",
+        "Acc_Y": "6.5152435",
+        "Acc_Z": "6.902954",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.0867043",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2297516",
+        "Acc_Y": "6.698471",
+        "Acc_Z": "4.825363",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.0877068",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2297516",
+        "Acc_Y": "6.698471",
+        "Acc_Z": "4.825363",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1027038",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3686981",
+        "Acc_Y": "6.7335052",
+        "Acc_Z": "6.078018",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1192858",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4876251",
+        "Acc_Y": "6.8096924",
+        "Acc_Z": "7.4998474",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1383677",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7823029",
+        "Acc_Y": "7.01532",
+        "Acc_Z": "6.2119904",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1523646",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7823029",
+        "Acc_Y": "7.01532",
+        "Acc_Z": "6.2119904",
+        "Gyro_X": "-0.3191681",
+        "Gyro_Y": "0.26643372",
+        "Gyro_Z": "0.024841309",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1593689",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7823029",
+        "Acc_Y": "7.01532",
+        "Acc_Z": "6.2119904",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1623775",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "2.0439758",
+        "Acc_Y": "7.0850983",
+        "Acc_Z": "4.6865997",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.1853679",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.9482574",
+        "Acc_Y": "7.116211",
+        "Acc_Z": "5.587677",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2083674",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.8767548",
+        "Acc_Y": "7.0863495",
+        "Acc_Z": "5.7584534",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2163679",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.9664001",
+        "Acc_Y": "7.1280212",
+        "Acc_Z": "5.68309",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2373650",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "2.0862885",
+        "Acc_Y": "7.0876465",
+        "Acc_Z": "5.9521027",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2793652",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "2.0444946",
+        "Acc_Y": "7.1039276",
+        "Acc_Z": "6.062439",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2833661",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.8046112",
+        "Acc_Y": "7.1260376",
+        "Acc_Z": "6.471985",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.2993663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5369263",
+        "Acc_Y": "7.0021057",
+        "Acc_Z": "6.5174713",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3133720",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.248764",
+        "Acc_Y": "6.839142",
+        "Acc_Z": "6.380081",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3503662",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1965637",
+        "Acc_Y": "6.8181915",
+        "Acc_Z": "6.5776978",
+        "Gyro_X": "0.78445435",
+        "Gyro_Y": "-1.398941",
+        "Gyro_Z": "-0.018127441",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3593695",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1965637",
+        "Acc_Y": "6.8181915",
+        "Acc_Z": "6.5776978",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3633655",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2558289",
+        "Acc_Y": "6.7900085",
+        "Acc_Z": "7.3301544",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3753688",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2407837",
+        "Acc_Y": "6.874634",
+        "Acc_Z": "7.414612",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.3953671",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1693878",
+        "Acc_Y": "7.009369",
+        "Acc_Z": "6.6299744",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.4283665",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1548309",
+        "Acc_Y": "6.94751",
+        "Acc_Z": "6.1533356",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.4493664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2167816",
+        "Acc_Y": "6.9426727",
+        "Acc_Z": "6.1674805",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.4603658",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3511047",
+        "Acc_Y": "6.9666595",
+        "Acc_Z": "6.3257904",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.4953689",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3222504",
+        "Acc_Y": "6.933182",
+        "Acc_Z": "6.493271",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5053691",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2884521",
+        "Acc_Y": "6.9522705",
+        "Acc_Z": "6.4878235",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5253667",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3041534",
+        "Acc_Y": "6.981491",
+        "Acc_Z": "6.260742",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5393660",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3169098",
+        "Acc_Y": "6.9514313",
+        "Acc_Z": "6.095566",
+        "Gyro_X": "0.13064575",
+        "Gyro_Y": "-0.055343628",
+        "Gyro_Z": "-0.04475403",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5553675",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3169098",
+        "Acc_Y": "6.9514313",
+        "Acc_Z": "6.095566",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5723645",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3238373",
+        "Acc_Y": "6.9724274",
+        "Acc_Z": "6.5741425",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.5883677",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.442337",
+        "Acc_Y": "7.0480347",
+        "Acc_Z": "6.8801575",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.6063684",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4464722",
+        "Acc_Y": "7.057953",
+        "Acc_Z": "6.718918",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.6243663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3487091",
+        "Acc_Y": "7.0081635",
+        "Acc_Z": "6.490082",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.6583677",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1319885",
+        "Acc_Y": "6.9335175",
+        "Acc_Z": "6.474045",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.6673696",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2618866",
+        "Acc_Y": "6.962784",
+        "Acc_Z": "6.374115",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.6883674",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4564056",
+        "Acc_Y": "7.020767",
+        "Acc_Z": "5.8584595",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7023659",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3967896",
+        "Acc_Y": "7.033127",
+        "Acc_Z": "5.8995056",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7343678",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3031769",
+        "Acc_Y": "7.0079803",
+        "Acc_Z": "6.6725616",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7483682",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2869568",
+        "Acc_Y": "6.9522705",
+        "Acc_Z": "6.884613",
+        "Gyro_X": "0.015975952",
+        "Gyro_Y": "0.09970093",
+        "Gyro_Z": "-0.013549805",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7533661",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2869568",
+        "Acc_Y": "6.9522705",
+        "Acc_Z": "6.884613",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7633704",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.28656",
+        "Acc_Y": "7.0033264",
+        "Acc_Z": "6.6937256",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.7793663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4125977",
+        "Acc_Y": "7.06308",
+        "Acc_Z": "6.5657043",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.8223652",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4556732",
+        "Acc_Y": "7.0664673",
+        "Acc_Z": "6.582428",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.8283663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4205933",
+        "Acc_Y": "7.0313873",
+        "Acc_Z": "6.3333435",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.8453664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3590698",
+        "Acc_Y": "6.9905853",
+        "Acc_Z": "6.056778",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.8633641",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3871307",
+        "Acc_Y": "7.0057983",
+        "Acc_Z": "6.2235107",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.8923648",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3004456",
+        "Acc_Y": "7.029785",
+        "Acc_Z": "6.6664886",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9053667",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2629395",
+        "Acc_Y": "7.042282",
+        "Acc_Z": "6.6273193",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9223658",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.345398",
+        "Acc_Y": "7.028885",
+        "Acc_Z": "6.3876495",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9413696",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4259033",
+        "Acc_Y": "7.028885",
+        "Acc_Z": "6.3324127",
+        "Gyro_X": "0.025604248",
+        "Gyro_Y": "-0.015029907",
+        "Gyro_Z": "-0.0027160645",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9563664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4259033",
+        "Acc_Y": "7.028885",
+        "Acc_Z": "6.3324127",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9773647",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3383179",
+        "Acc_Y": "6.954376",
+        "Acc_Z": "6.457016",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:06.9873653",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2781372",
+        "Acc_Y": "7.00235",
+        "Acc_Z": "6.48732",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.0053653",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.33992",
+        "Acc_Y": "7.0503235",
+        "Acc_Z": "6.4418793",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.0213697",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5544891",
+        "Acc_Y": "7.12941",
+        "Acc_Z": "6.447708",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.0583652",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3941345",
+        "Acc_Y": "7.0863495",
+        "Acc_Z": "6.3148193",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.0683652",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2859039",
+        "Acc_Y": "7.0681305",
+        "Acc_Z": "6.1764984",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.0843672",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3491516",
+        "Acc_Y": "7.0506897",
+        "Acc_Z": "5.8428497",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1003647",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7705383",
+        "Acc_Y": "7.1143036",
+        "Acc_Z": "6.61203",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1323749",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5302582",
+        "Acc_Y": "7.141037",
+        "Acc_Z": "6.733734",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1583669",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4636383",
+        "Acc_Y": "7.1054993",
+        "Acc_Z": "6.2539825",
+        "Gyro_X": "0.0068359375",
+        "Gyro_Y": "-0.014129639",
+        "Gyro_Z": "-0.0049743652",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1623685",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4636383",
+        "Acc_Y": "7.1054993",
+        "Acc_Z": "6.2539825",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1653737",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4099884",
+        "Acc_Y": "7.050247",
+        "Acc_Z": "6.0394135",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.1793681",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3545685",
+        "Acc_Y": "7.0256042",
+        "Acc_Z": "6.1671143",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.2113675",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3876038",
+        "Acc_Y": "7.068756",
+        "Acc_Z": "6.5631714",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.2263678",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4243774",
+        "Acc_Y": "7.067154",
+        "Acc_Z": "6.569565",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.2663651",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.210022",
+        "Acc_Y": "6.9727325",
+        "Acc_Z": "6.324127",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.2703674",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1307983",
+        "Acc_Y": "6.9652405",
+        "Acc_Z": "6.3560333",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.2913690",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3693542",
+        "Acc_Y": "7.072418",
+        "Acc_Z": "6.071823",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3113649",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4366608",
+        "Acc_Y": "7.1312256",
+        "Acc_Z": "6.1441803",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3243754",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3304596",
+        "Acc_Y": "7.086746",
+        "Acc_Z": "6.3623962",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3433649",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2515259",
+        "Acc_Y": "6.9830475",
+        "Acc_Z": "6.4815674",
+        "Gyro_X": "0.031814575",
+        "Gyro_Y": "-0.041870117",
+        "Gyro_Z": "0.005279541",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3523684",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2515259",
+        "Acc_Y": "6.9830475",
+        "Acc_Z": "6.4815674",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3743646",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3719788",
+        "Acc_Y": "6.9827576",
+        "Acc_Z": "6.382324",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.3903728",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4486542",
+        "Acc_Y": "7.052719",
+        "Acc_Z": "6.1635284",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.4073656",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.398941",
+        "Acc_Y": "6.967453",
+        "Acc_Z": "6.164612",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.4233775",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3825531",
+        "Acc_Y": "7.0506134",
+        "Acc_Z": "6.5911865",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.4683701",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3375092",
+        "Acc_Y": "7.083313",
+        "Acc_Z": "6.6152954",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.4713682",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7204437",
+        "Acc_Y": "7.1796417",
+        "Acc_Z": "6.6709137",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.4923669",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0949554",
+        "Acc_Y": "6.5321198",
+        "Acc_Z": "7.9841003",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5033651",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.026016235",
+        "Acc_Y": "6.688034",
+        "Acc_Z": "8.432831",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5493680",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.663208",
+        "Acc_Y": "5.7884064",
+        "Acc_Z": "8.377029",
+        "Gyro_X": "-0.059570313",
+        "Gyro_Y": "0.097595215",
+        "Gyro_Z": "-0.010650635",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5543679",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.663208",
+        "Acc_Y": "5.7884064",
+        "Acc_Z": "8.377029",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5583663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.4958496",
+        "Acc_Y": "5.942688",
+        "Acc_Z": "8.28598",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5683657",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.84228516",
+        "Acc_Y": "6.267029",
+        "Acc_Z": "7.4843597",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.5873664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5970001",
+        "Acc_Y": "6.222061",
+        "Acc_Z": "6.692047",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6173651",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.28657532",
+        "Acc_Y": "6.1095123",
+        "Acc_Z": "6.771744",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6363815",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.77285767",
+        "Acc_Y": "6.102234",
+        "Acc_Z": "7.0915833",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6583672",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8061218",
+        "Acc_Y": "6.22348",
+        "Acc_Z": "7.213043",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6703652",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74549866",
+        "Acc_Y": "6.402664",
+        "Acc_Z": "7.212967",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "16.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6903658",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74549866",
+        "Acc_Y": "6.402664",
+        "Acc_Z": "7.212967",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.6963694",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.71025085",
+        "Acc_Y": "6.383728",
+        "Acc_Z": "6.837021",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7123680",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5572357",
+        "Acc_Y": "6.345749",
+        "Acc_Z": "6.5964203",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7293676",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6707001",
+        "Acc_Y": "6.5510864",
+        "Acc_Z": "6.509857",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7523694",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74975586",
+        "Acc_Y": "6.6951294",
+        "Acc_Z": "6.4891357",
+        "Gyro_X": "-0.41740417",
+        "Gyro_Y": "0.272583",
+        "Gyro_Z": "-0.03590393",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7593705",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74975586",
+        "Acc_Y": "6.6951294",
+        "Acc_Z": "6.4891357",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7603681",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.74975586",
+        "Acc_Y": "6.6951294",
+        "Acc_Z": "6.4891357",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7763694",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.50904846",
+        "Acc_Y": "6.69487",
+        "Acc_Z": "7.03833",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.7993658",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.36839294",
+        "Acc_Y": "6.645813",
+        "Acc_Z": "7.2095184",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.8143694",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.45280457",
+        "Acc_Y": "6.583481",
+        "Acc_Z": "7.258438",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.8233706",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.60066223",
+        "Acc_Y": "6.567337",
+        "Acc_Z": "7.2438965",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.8683660",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.60894775",
+        "Acc_Y": "6.6177216",
+        "Acc_Z": "7.0865326",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.8783689",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.518631",
+        "Acc_Y": "6.561386",
+        "Acc_Z": "6.704376",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.8933716",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.61328125",
+        "Acc_Y": "6.7397614",
+        "Acc_Z": "6.303131",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9053684",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6852417",
+        "Acc_Y": "6.8023834",
+        "Acc_Z": "5.9453583",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9373727",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8310089",
+        "Acc_Y": "6.629822",
+        "Acc_Z": "6.8463593",
+        "Gyro_X": "0.10179138",
+        "Gyro_Y": "0.10345459",
+        "Gyro_Z": "0.016220093",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9523752",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8310089",
+        "Acc_Y": "6.629822",
+        "Acc_Z": "6.8463593",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9583664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5991516",
+        "Acc_Y": "6.6937866",
+        "Acc_Z": "7.4140625",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9723660",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.48591614",
+        "Acc_Y": "6.683899",
+        "Acc_Z": "7.34877",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:07.9953712",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.49719238",
+        "Acc_Y": "6.5400543",
+        "Acc_Z": "7.143585",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.0213687",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.33694458",
+        "Acc_Y": "6.592346",
+        "Acc_Z": "7.291046",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.0413695",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5935364",
+        "Acc_Y": "6.6951294",
+        "Acc_Z": "6.9988403",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.0533667",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2018433",
+        "Acc_Y": "6.787918",
+        "Acc_Z": "6.1663666",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.0653712",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2221985",
+        "Acc_Y": "6.5345917",
+        "Acc_Z": "6.7035217",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.0993648",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7477875",
+        "Acc_Y": "6.69458",
+        "Acc_Z": "6.6306305",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1143678",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9117737",
+        "Acc_Y": "6.699951",
+        "Acc_Z": "6.626251",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1323663",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9141083",
+        "Acc_Y": "6.7115936",
+        "Acc_Z": "7.903839",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1463735",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7944031",
+        "Acc_Y": "6.5979156",
+        "Acc_Z": "8.3116",
+        "Gyro_X": "0.082717896",
+        "Gyro_Y": "0.098342896",
+        "Gyro_Z": "0.06791687",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1533666",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7944031",
+        "Acc_Y": "6.5979156",
+        "Acc_Z": "8.3116",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1623698",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7944031",
+        "Acc_Y": "6.5979156",
+        "Acc_Z": "8.3116",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.1773698",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.606369",
+        "Acc_Y": "6.4196014",
+        "Acc_Z": "6.934616",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2023690",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6176758",
+        "Acc_Y": "6.468979",
+        "Acc_Z": "5.6266327",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2183664",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.53808594",
+        "Acc_Y": "6.511734",
+        "Acc_Z": "6.180954",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2323651",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8785553",
+        "Acc_Y": "6.4935913",
+        "Acc_Z": "7.5874634",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2333693",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8785553",
+        "Acc_Y": "6.4935913",
+        "Acc_Z": "7.5874634",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2603690",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.44773865",
+        "Acc_Y": "6.5527344",
+        "Acc_Z": "8.048431",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2863703",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.38890076",
+        "Acc_Y": "6.590393",
+        "Acc_Z": "7.476944",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.2913647",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8062744",
+        "Acc_Y": "6.563095",
+        "Acc_Z": "6.643814",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3063725",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.75935364",
+        "Acc_Y": "6.464447",
+        "Acc_Z": "6.469696",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3393649",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0440369",
+        "Acc_Y": "6.645813",
+        "Acc_Z": "7.0306244",
+        "Gyro_X": "-0.04789734",
+        "Gyro_Y": "-0.077301025",
+        "Gyro_Z": "0.006149292",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3574872",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0440369",
+        "Acc_Y": "6.645813",
+        "Acc_Z": "7.0306244",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3685501",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9212189",
+        "Acc_Y": "6.5954742",
+        "Acc_Z": "6.890381",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3795509",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.50878906",
+        "Acc_Y": "6.6492157",
+        "Acc_Z": "6.575821",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.3865519",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0798035",
+        "Acc_Y": "6.5781097",
+        "Acc_Z": "7.3207397",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.4305488",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0809326",
+        "Acc_Y": "6.741577",
+        "Acc_Z": "7.4861145",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.4405482",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.77915955",
+        "Acc_Y": "6.7081757",
+        "Acc_Z": "7.1125183",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.4535543",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.71138",
+        "Acc_Y": "6.6783905",
+        "Acc_Z": "6.9854736",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.4675489",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.90870667",
+        "Acc_Y": "6.666092",
+        "Acc_Z": "7.3694916",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5005496",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0004425",
+        "Acc_Y": "6.6611633",
+        "Acc_Z": "7.063751",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5155482",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8038025",
+        "Acc_Y": "6.7490997",
+        "Acc_Z": "6.4822693",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5325530",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8510742",
+        "Acc_Y": "6.7932587",
+        "Acc_Z": "6.399246",
+        "Gyro_X": "0.006362915",
+        "Gyro_Y": "0.031951904",
+        "Gyro_Z": "0.037597656",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5515499",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8510742",
+        "Acc_Y": "6.7932587",
+        "Acc_Z": "6.399246",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5575510",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8809967",
+        "Acc_Y": "6.817383",
+        "Acc_Z": "6.8569336",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5805497",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8276062",
+        "Acc_Y": "6.7158813",
+        "Acc_Z": "7.2397003",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.5975512",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8434906",
+        "Acc_Y": "6.762268",
+        "Acc_Z": "6.7363434",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6245618",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8434906",
+        "Acc_Y": "6.9378357",
+        "Acc_Z": "5.579941",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6295499",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.67575073",
+        "Acc_Y": "6.8223114",
+        "Acc_Z": "6.1071014",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6315534",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.67575073",
+        "Acc_Y": "6.8223114",
+        "Acc_Z": "6.1071014",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6605482",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.71769714",
+        "Acc_Y": "6.6930847",
+        "Acc_Z": "7.3629",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6785535",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.45161438",
+        "Acc_Y": "6.8430023",
+        "Acc_Z": "7.5400085",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.6925493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.45489502",
+        "Acc_Y": "6.8539124",
+        "Acc_Z": "6.924515",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7125481",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.58966064",
+        "Acc_Y": "6.800415",
+        "Acc_Z": "6.2806244",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7425494",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8066406",
+        "Acc_Y": "6.763687",
+        "Acc_Z": "6.4549255",
+        "Gyro_X": "0.103530884",
+        "Gyro_Y": "0.008422852",
+        "Gyro_Z": "0.036575317",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7505511",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8066406",
+        "Acc_Y": "6.763687",
+        "Acc_Z": "6.4549255",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7565554",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7361603",
+        "Acc_Y": "6.8066406",
+        "Acc_Z": "6.7101746",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7725553",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.66963196",
+        "Acc_Y": "6.781784",
+        "Acc_Z": "6.552994",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.7895565",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6140442",
+        "Acc_Y": "6.760742",
+        "Acc_Z": "6.3427887",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.8215468",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.924469",
+        "Acc_Y": "6.8933105",
+        "Acc_Z": "6.3591003",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.8315527",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.924469",
+        "Acc_Y": "6.8933105",
+        "Acc_Z": "6.3591003",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.8385493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1215668",
+        "Acc_Y": "6.9338074",
+        "Acc_Z": "6.7075806",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.8535529",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0412598",
+        "Acc_Y": "6.913971",
+        "Acc_Z": "6.94664",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.8695525",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.95918274",
+        "Acc_Y": "6.9517517",
+        "Acc_Z": "6.7830505",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9005482",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1017761",
+        "Acc_Y": "7.019211",
+        "Acc_Z": "6.6280365",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9185544",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2464447",
+        "Acc_Y": "7.0480347",
+        "Acc_Z": "6.368332",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9335500",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4881287",
+        "Acc_Y": "7.1049347",
+        "Acc_Z": "6.624542",
+        "Gyro_X": "0.09384155",
+        "Gyro_Y": "0.02998352",
+        "Gyro_Z": "0.03579712",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9575551",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4881287",
+        "Acc_Y": "7.1049347",
+        "Acc_Z": "6.624542",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9685485",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4360352",
+        "Acc_Y": "7.0282745",
+        "Acc_Z": "6.7580414",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:08.9865491",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3299866",
+        "Acc_Y": "6.98674",
+        "Acc_Z": "6.5276794",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0005481",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2171783",
+        "Acc_Y": "6.9714203",
+        "Acc_Z": "6.386841",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0195529",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.197525",
+        "Acc_Y": "6.9859314",
+        "Acc_Z": "6.3690186",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0595528",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1333008",
+        "Acc_Y": "6.991287",
+        "Acc_Z": "6.395645",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0635493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2599182",
+        "Acc_Y": "7.0338135",
+        "Acc_Z": "6.28685",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0805483",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2163849",
+        "Acc_Y": "7.0480347",
+        "Acc_Z": "6.3615265",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.0965502",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.202774",
+        "Acc_Y": "7.091614",
+        "Acc_Z": "6.779129",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1105479",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.202774",
+        "Acc_Y": "7.091614",
+        "Acc_Z": "6.779129",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1295515",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.210022",
+        "Acc_Y": "7.0668945",
+        "Acc_Z": "6.7154846",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1455504",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3591766",
+        "Acc_Y": "7.0377197",
+        "Acc_Z": "6.11174",
+        "Gyro_X": "0.07814026",
+        "Gyro_Y": "-0.12837219",
+        "Gyro_Z": "0.08042908",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1505489",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3591766",
+        "Acc_Y": "7.0377197",
+        "Acc_Z": "6.11174",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1575523",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3132629",
+        "Acc_Y": "7.0500946",
+        "Acc_Z": "5.2586975",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.1735500",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5153656",
+        "Acc_Y": "7.026947",
+        "Acc_Z": "5.957321",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.2075493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.6882782",
+        "Acc_Y": "7.2204285",
+        "Acc_Z": "6.720169",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.2275518",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.7040863",
+        "Acc_Y": "7.2471313",
+        "Acc_Z": "7.1725616",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.2425492",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5206146",
+        "Acc_Y": "7.242569",
+        "Acc_Z": "6.705017",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.2645512",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.4172974",
+        "Acc_Y": "7.104706",
+        "Acc_Z": "6.5343933",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.2845511",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3247986",
+        "Acc_Y": "7.007248",
+        "Acc_Z": "6.1181335",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3245487",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3484192",
+        "Acc_Y": "7.01416",
+        "Acc_Z": "5.901947",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3275542",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2238617",
+        "Acc_Y": "7.0507965",
+        "Acc_Z": "5.795456",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3345525",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.055481",
+        "Acc_Y": "6.978241",
+        "Acc_Z": "6.1342773",
+        "Gyro_X": "0.08250427",
+        "Gyro_Y": "-0.08570862",
+        "Gyro_Z": "0.037460327",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3465513",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.055481",
+        "Acc_Y": "6.978241",
+        "Acc_Z": "6.1342773",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3665487",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1572113",
+        "Acc_Y": "6.9905853",
+        "Acc_Z": "6.924759",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "18.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3675495",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1572113",
+        "Acc_Y": "6.9905853",
+        "Acc_Z": "6.924759",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.3835484",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.1513977",
+        "Acc_Y": "6.9842834",
+        "Acc_Z": "6.9732056",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4005522",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9472809",
+        "Acc_Y": "6.9714203",
+        "Acc_Z": "6.6853485",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4165505",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0190277",
+        "Acc_Y": "6.9714203",
+        "Acc_Z": "6.3656006",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4485516",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2938538",
+        "Acc_Y": "7.0174103",
+        "Acc_Z": "6.122116",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4635510",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.5223083",
+        "Acc_Y": "6.758438",
+        "Acc_Z": "6.669174",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4815523",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2994385",
+        "Acc_Y": "7.0012054",
+        "Acc_Z": "6.7704926",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.4995495",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0259705",
+        "Acc_Y": "7.5319977",
+        "Acc_Z": "5.808365",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5285550",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2503052",
+        "Acc_Y": "7.2195435",
+        "Acc_Z": "5.6312103",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5445515",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0113373",
+        "Acc_Y": "7.002121",
+        "Acc_Z": "6.2292633",
+        "Gyro_X": "-0.030838013",
+        "Gyro_Y": "0.046875",
+        "Gyro_Z": "-0.030853271",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5505493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0113373",
+        "Acc_Y": "7.002121",
+        "Acc_Z": "6.2292633",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5705514",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7091217",
+        "Acc_Y": "6.9061737",
+        "Acc_Z": "6.99971",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5715519",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7091217",
+        "Acc_Y": "6.9061737",
+        "Acc_Z": "6.99971",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.5765503",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.61647034",
+        "Acc_Y": "6.8103485",
+        "Acc_Z": "7.351639",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.6185568",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6236572",
+        "Acc_Y": "6.711273",
+        "Acc_Z": "7.09523",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.6385499",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.688797",
+        "Acc_Y": "6.8004913",
+        "Acc_Z": "6.714325",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.6435496",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6519623",
+        "Acc_Y": "6.8490295",
+        "Acc_Z": "6.4931946",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.6575536",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6188812",
+        "Acc_Y": "6.8565063",
+        "Acc_Z": "6.807312",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7015519",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.26400757",
+        "Acc_Y": "6.647476",
+        "Acc_Z": "7.245575",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7125494",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.056625366",
+        "Acc_Y": "6.441223",
+        "Acc_Z": "7.6272736",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7265483",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "-0.23913574",
+        "Acc_Y": "6.3676453",
+        "Acc_Z": "7.391464",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7385493",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.25712585",
+        "Acc_Y": "6.630356",
+        "Acc_Z": "6.95166",
+        "Gyro_X": "-0.06689453",
+        "Gyro_Y": "0.15835571",
+        "Gyro_Z": "-0.1108551",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7485494",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.25712585",
+        "Acc_Y": "6.630356",
+        "Acc_Z": "6.95166",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7785543",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.67349243",
+        "Acc_Y": "6.7774963",
+        "Acc_Z": "6.924164",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.7875520",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6326904",
+        "Acc_Y": "6.901993",
+        "Acc_Z": "6.7923584",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.8025552",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5249939",
+        "Acc_Y": "6.925995",
+        "Acc_Z": "6.612564",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.8205492",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6359253",
+        "Acc_Y": "6.8656616",
+        "Acc_Z": "6.620407",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.8645500",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.0379181",
+        "Acc_Y": "6.9076843",
+        "Acc_Z": "6.6935883",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.8715540",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2515259",
+        "Acc_Y": "6.975815",
+        "Acc_Z": "6.5682526",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.8835513",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9615021",
+        "Acc_Y": "6.988907",
+        "Acc_Z": "6.4374084",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9095519",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.8434906",
+        "Acc_Y": "7.043808",
+        "Acc_Z": "6.4847717",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9315484",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9584198",
+        "Acc_Y": "7.0179596",
+        "Acc_Z": "6.370041",
+        "Gyro_X": "-0.15037537",
+        "Gyro_Y": "0.015213013",
+        "Gyro_Z": "-0.112075806",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9535527",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9584198",
+        "Acc_Y": "7.0179596",
+        "Acc_Z": "6.370041",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9585640",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9052429",
+        "Acc_Y": "6.8914948",
+        "Acc_Z": "6.526886",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9625488",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.7250824",
+        "Acc_Y": "6.7866364",
+        "Acc_Z": "6.591156",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:09.9795527",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.6194153",
+        "Acc_Y": "6.8660126",
+        "Acc_Z": "6.412842",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.0125509",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.56951904",
+        "Acc_Y": "6.9006195",
+        "Acc_Z": "6.308731",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.0355508",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.5447998",
+        "Acc_Y": "6.917557",
+        "Acc_Z": "6.618225",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.0485651",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.56877136",
+        "Acc_Y": "6.8822174",
+        "Acc_Z": "6.315857",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.0605481",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.2542725",
+        "Acc_Y": "6.858246",
+        "Acc_Z": "6.085739",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.0915515",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3439789",
+        "Acc_Y": "7.095047",
+        "Acc_Z": "7.0525055",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1085502",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "1.3051605",
+        "Acc_Y": "7.2395782",
+        "Acc_Z": "7.6053467",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1245501",
+      "frameAttributes": {
+        "Answer": "Waiting for an answer",
+        "Acc_X": "0.9261627",
+        "Acc_Y": "7.0220947",
+        "Acc_Z": "7.5397797",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1375479",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9261627",
+        "Acc_Y": "7.0220947",
+        "Acc_Z": "7.5397797",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1465479",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.73773193",
+        "Acc_Y": "6.9668274",
+        "Acc_Z": "6.672241",
+        "Gyro_X": "0.12062073",
+        "Gyro_Y": "-0.13339233",
+        "Gyro_Z": "-0.015380859",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1495500",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.73773193",
+        "Acc_Y": "6.9668274",
+        "Acc_Z": "6.672241",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1755505",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.76286316",
+        "Acc_Y": "6.715805",
+        "Acc_Z": "6.3544464",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.1885487",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.70069885",
+        "Acc_Y": "6.7491302",
+        "Acc_Z": "6.124069",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.2035485",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7020569",
+        "Acc_Y": "6.863266",
+        "Acc_Z": "6.2076416",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.2205474",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7779541",
+        "Acc_Y": "6.893448",
+        "Acc_Z": "6.3524017",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.2525506",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7059326",
+        "Acc_Y": "7.0079803",
+        "Acc_Z": "6.306885",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.2715476",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.54273987",
+        "Acc_Y": "6.8973846",
+        "Acc_Z": "6.5408936",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.2935509",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7067871",
+        "Acc_Y": "6.9413757",
+        "Acc_Z": "7.0193787",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3025513",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.892807",
+        "Acc_Y": "7.079361",
+        "Acc_Z": "7.2895203",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3335484",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9658356",
+        "Acc_Y": "7.077301",
+        "Acc_Z": "6.777008",
+        "Gyro_X": "-0.028213501",
+        "Gyro_Y": "0.0095825195",
+        "Gyro_Z": "0.0020599365",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3515496",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9658356",
+        "Acc_Y": "7.077301",
+        "Acc_Z": "6.777008",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3545480",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6200714",
+        "Acc_Y": "6.841629",
+        "Acc_Z": "6.3762054",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3655488",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.78292847",
+        "Acc_Y": "6.8123627",
+        "Acc_Z": "6.341675",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.3815528",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0089874",
+        "Acc_Y": "6.8363647",
+        "Acc_Z": "6.3227844",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.4135609",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.84336853",
+        "Acc_Y": "6.845047",
+        "Acc_Z": "6.3707886",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.4305518",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7842407",
+        "Acc_Y": "6.9104004",
+        "Acc_Z": "6.5626984",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.4585500",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8727875",
+        "Acc_Y": "7.0063477",
+        "Acc_Z": "6.849228",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.4745503",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.84588623",
+        "Acc_Y": "7.028885",
+        "Acc_Z": "7.264099",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.4945477",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7567749",
+        "Acc_Y": "7.0278625",
+        "Acc_Z": "7.181671",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5195488",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.60194397",
+        "Acc_Y": "6.8901825",
+        "Acc_Z": "6.6769257",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5295502",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7150116",
+        "Acc_Y": "6.7770844",
+        "Acc_Z": "6.4027405",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5565574",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.95199585",
+        "Acc_Y": "6.835022",
+        "Acc_Z": "6.377701",
+        "Gyro_X": "0.01083374",
+        "Gyro_Y": "0.022247314",
+        "Gyro_Z": "0.004486084",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5675514",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.95199585",
+        "Acc_Y": "6.835022",
+        "Acc_Z": "6.377701",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5815606",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0435638",
+        "Acc_Y": "6.9288635",
+        "Acc_Z": "6.7272644",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.5905480",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.80322266",
+        "Acc_Y": "6.8958282",
+        "Acc_Z": "6.758377",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.6135496",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.66586304",
+        "Acc_Y": "6.889557",
+        "Acc_Z": "6.404724",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.6285496",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8023834",
+        "Acc_Y": "6.894806",
+        "Acc_Z": "6.320816",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.6605482",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.868515",
+        "Acc_Y": "6.9611206",
+        "Acc_Z": "6.5905",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.6705638",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8058319",
+        "Acc_Y": "6.9720764",
+        "Acc_Z": "6.8062897",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.6985518",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.75782776",
+        "Acc_Y": "6.9240723",
+        "Acc_Z": "6.8954163",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7105611",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.76664734",
+        "Acc_Y": "6.8950195",
+        "Acc_Z": "6.933304",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7425489",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7292633",
+        "Acc_Y": "6.894806",
+        "Acc_Z": "6.8875732",
+        "Gyro_X": "-0.006362915",
+        "Gyro_Y": "0.006072998",
+        "Gyro_Z": "0.008865356",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7515476",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7292633",
+        "Acc_Y": "6.894806",
+        "Acc_Z": "6.8875732",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7555537",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.69944763",
+        "Acc_Y": "6.904251",
+        "Acc_Z": "6.5910034",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7685492",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.75712585",
+        "Acc_Y": "6.8996735",
+        "Acc_Z": "6.421463",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.7845498",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.93891907",
+        "Acc_Y": "6.9330444",
+        "Acc_Z": "6.607773",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.8265479",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.95832825",
+        "Acc_Y": "6.9522705",
+        "Acc_Z": "6.699066",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.8345508",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.81459045",
+        "Acc_Y": "6.942627",
+        "Acc_Z": "6.6176453",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.8505506",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.786026",
+        "Acc_Y": "6.9331207",
+        "Acc_Z": "6.4634705",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.8805488",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8818054",
+        "Acc_Y": "6.895096",
+        "Acc_Z": "6.4559174",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9025502",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8569946",
+        "Acc_Y": "6.943039",
+        "Acc_Z": "6.6236877",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9145511",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.74690247",
+        "Acc_Y": "6.9518585",
+        "Acc_Z": "6.830597",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9275598",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7094116",
+        "Acc_Y": "6.9331207",
+        "Acc_Z": "6.7579803",
+        "Gyro_X": "-0.0018310547",
+        "Gyro_Y": "0.0073394775",
+        "Gyro_Z": "0.0039978027",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9485472",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7094116",
+        "Acc_Y": "6.9331207",
+        "Acc_Z": "6.7579803",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9605560",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8243408",
+        "Acc_Y": "6.932785",
+        "Acc_Z": "6.607483",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9765483",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8036957",
+        "Acc_Y": "6.9191284",
+        "Acc_Z": "6.590454",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:10.9925486",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.71772766",
+        "Acc_Y": "6.9331207",
+        "Acc_Z": "6.6264496",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.0095538",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7645416",
+        "Acc_Y": "6.9331207",
+        "Acc_Z": "6.548706",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.0423127",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8989105",
+        "Acc_Y": "6.932602",
+        "Acc_Z": "6.571335",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.0568453",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8296814",
+        "Acc_Y": "6.9193115",
+        "Acc_Z": "6.6059113",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.0778437",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8434906",
+        "Acc_Y": "6.943283",
+        "Acc_Z": "6.581192",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.0888416",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.82847595",
+        "Acc_Y": "6.9522705",
+        "Acc_Z": "6.743225",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.1268490",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8017273",
+        "Acc_Y": "6.9495087",
+        "Acc_Z": "6.8509064",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.1448425",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.69836426",
+        "Acc_Y": "6.8811646",
+        "Acc_Z": "6.635025",
+        "Gyro_X": "0.013916016",
+        "Gyro_Y": "0.008132935",
+        "Gyro_Z": "0.0052948",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.1508436",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.69836426",
+        "Acc_Y": "6.8811646",
+        "Acc_Z": "6.635025",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.1538417",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.69181824",
+        "Acc_Y": "6.884445",
+        "Acc_Z": "6.4709167",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.1708425",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7702942",
+        "Acc_Y": "6.9213104",
+        "Acc_Z": "6.420517",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2088412",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7451019",
+        "Acc_Y": "6.893051",
+        "Acc_Z": "6.6386414",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2178418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.707489",
+        "Acc_Y": "6.867981",
+        "Acc_Z": "6.864792",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2378450",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.76882935",
+        "Acc_Y": "6.926468",
+        "Acc_Z": "6.7324066",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2558418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.80140686",
+        "Acc_Y": "6.967636",
+        "Acc_Z": "6.6464233",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2888420",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.687088",
+        "Acc_Y": "6.892685",
+        "Acc_Z": "6.624115",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.2988425",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6742554",
+        "Acc_Y": "6.868347",
+        "Acc_Z": "6.6112823",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3178422",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8959656",
+        "Acc_Y": "6.9378357",
+        "Acc_Z": "6.84375",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3388438",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.88757324",
+        "Acc_Y": "6.893463",
+        "Acc_Z": "6.952881",
+        "Gyro_X": "-0.0058135986",
+        "Gyro_Y": "0.008865356",
+        "Gyro_Z": "-0.003189087",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3478463",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.88757324",
+        "Acc_Y": "6.893463",
+        "Acc_Z": "6.952881",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3688410",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.72984314",
+        "Acc_Y": "6.8565063",
+        "Acc_Z": "6.794647",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3788418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.73550415",
+        "Acc_Y": "6.8565063",
+        "Acc_Z": "6.412155",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.3998497",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7203522",
+        "Acc_Y": "6.845566",
+        "Acc_Z": "6.463043",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.4158451",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6496887",
+        "Acc_Y": "6.8058014",
+        "Acc_Z": "6.680237",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.4528431",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6429901",
+        "Acc_Y": "6.80632",
+        "Acc_Z": "6.4755096",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.4628546",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.81736755",
+        "Acc_Y": "6.926361",
+        "Acc_Z": "6.5878754",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.4778431",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8978119",
+        "Acc_Y": "6.9905853",
+        "Acc_Z": "6.947647",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.4958416",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9137726",
+        "Acc_Y": "6.926605",
+        "Acc_Z": "7.2437134",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.5258454",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0625153",
+        "Acc_Y": "6.865631",
+        "Acc_Z": "7.194351",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.5488416",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.1434631",
+        "Acc_Y": "6.747772",
+        "Acc_Z": "6.7979126",
+        "Gyro_X": "-0.03265381",
+        "Gyro_Y": "0.0015869141",
+        "Gyro_Z": "0.005004883",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.5558410",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.1434631",
+        "Acc_Y": "6.747772",
+        "Acc_Z": "6.7979126",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.5578409",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.017395",
+        "Acc_Y": "6.7224274",
+        "Acc_Z": "6.5017853",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.5758414",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8583832",
+        "Acc_Y": "6.7224274",
+        "Acc_Z": "6.600464",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.6198429",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.89912415",
+        "Acc_Y": "6.7972107",
+        "Acc_Z": "6.937378",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.6228432",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.76142883",
+        "Acc_Y": "6.7464447",
+        "Acc_Z": "6.844986",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.6368439",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.4678955",
+        "Acc_Y": "6.661072",
+        "Acc_Z": "6.435318",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.6548425",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.52023315",
+        "Acc_Y": "6.7112274",
+        "Acc_Z": "6.566147",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.6918434",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6600952",
+        "Acc_Y": "6.816147",
+        "Acc_Z": "7.0771484",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7108418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7148285",
+        "Acc_Y": "6.7852936",
+        "Acc_Z": "7.2137756",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7178457",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.66685486",
+        "Acc_Y": "6.7490234",
+        "Acc_Z": "6.818863",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7318444",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8173218",
+        "Acc_Y": "6.708496",
+        "Acc_Z": "6.568985",
+        "Gyro_X": "-0.05316162",
+        "Gyro_Y": "-0.011688232",
+        "Gyro_Z": "0.008117676",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7468398",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8173218",
+        "Acc_Y": "6.708496",
+        "Acc_Z": "6.568985",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7638418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.99671936",
+        "Acc_Y": "6.6988373",
+        "Acc_Z": "6.706909",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7818430",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.99671936",
+        "Acc_Y": "6.679062",
+        "Acc_Z": "6.9115295",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.7998448",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.98480225",
+        "Acc_Y": "6.6913605",
+        "Acc_Z": "6.924408",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.8128427",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9775696",
+        "Acc_Y": "6.667389",
+        "Acc_Z": "6.8452606",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.8598426",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.9536438",
+        "Acc_Y": "6.71286",
+        "Acc_Z": "6.701462",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.8698443",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0397034",
+        "Acc_Y": "6.7509613",
+        "Acc_Z": "6.57959",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.8778418",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0158691",
+        "Acc_Y": "6.7395325",
+        "Acc_Z": "6.711914",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.8948424",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0327759",
+        "Acc_Y": "6.7776337",
+        "Acc_Z": "6.964218",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9278452",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "1.0327759",
+        "Acc_Y": "6.7776337",
+        "Acc_Z": "6.964218",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9318433",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7146301",
+        "Acc_Y": "6.783371",
+        "Acc_Z": "6.8954163",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9408421",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7699585",
+        "Acc_Y": "6.676697",
+        "Acc_Z": "6.9176636",
+        "Gyro_X": "-0.03590393",
+        "Gyro_Y": "-0.026382446",
+        "Gyro_Z": "0.020553589",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9498435",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7699585",
+        "Acc_Y": "6.676697",
+        "Acc_Z": "6.9176636",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9568417",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.85417175",
+        "Acc_Y": "6.65271",
+        "Acc_Z": "6.9283905",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:11.9848436",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8646698",
+        "Acc_Y": "6.645813",
+        "Acc_Z": "6.7776794",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.0128416",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.74794006",
+        "Acc_Y": "6.6704865",
+        "Acc_Z": "6.5891876",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.0328408",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8854828",
+        "Acc_Y": "6.7032776",
+        "Acc_Z": "6.8714905",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.0398478",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8703766",
+        "Acc_Y": "6.678406",
+        "Acc_Z": "7.1874237",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.0568454",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.791687",
+        "Acc_Y": "6.664963",
+        "Acc_Z": "7.117462",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.0998415",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.78897095",
+        "Acc_Y": "6.6104584",
+        "Acc_Z": "6.9337006",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1088437",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7973633",
+        "Acc_Y": "6.611023",
+        "Acc_Z": "6.73085",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1198450",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.82395935",
+        "Acc_Y": "6.600998",
+        "Acc_Z": "6.868683",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1348456",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.82603455",
+        "Acc_Y": "6.624954",
+        "Acc_Z": "6.951187",
+        "Gyro_X": "-0.050369263",
+        "Gyro_Y": "0.019226074",
+        "Gyro_Z": "0.0154418945",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1508446",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.82603455",
+        "Acc_Y": "6.624954",
+        "Acc_Z": "6.951187",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1698426",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.63978577",
+        "Acc_Y": "6.5629272",
+        "Acc_Z": "6.959152",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1868464",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.5035095",
+        "Acc_Y": "6.5468445",
+        "Acc_Z": "6.9592743",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.1998434",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.60098267",
+        "Acc_Y": "6.6203613",
+        "Acc_Z": "6.8378296",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.2208421",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.68566895",
+        "Acc_Y": "6.628189",
+        "Acc_Z": "6.7467804",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.2668426",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7160187",
+        "Acc_Y": "6.5625763",
+        "Acc_Z": "7.021652",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.2708409",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.7151489",
+        "Acc_Y": "6.4901886",
+        "Acc_Z": "7.300049",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.2798427",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.5802765",
+        "Acc_Y": "6.4091644",
+        "Acc_Z": "7.160492",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3008411",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.5013428",
+        "Acc_Y": "6.432495",
+        "Acc_Z": "6.7823334",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3338419",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.96539307",
+        "Acc_Y": "6.1913147",
+        "Acc_Z": "7.1586",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3588449",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8385773",
+        "Acc_Y": "6.18692",
+        "Acc_Z": "7.8297424",
+        "Gyro_X": "-0.051467896",
+        "Gyro_Y": "0.07948303",
+        "Gyro_Z": "-0.003036499",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3668445",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.8385773",
+        "Acc_Y": "6.18692",
+        "Acc_Z": "7.8297424",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3708412",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.18547058",
+        "Acc_Y": "6.5916443",
+        "Acc_Z": "7.593643",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.3773750",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.25143433",
+        "Acc_Y": "6.3817596",
+        "Acc_Z": "6.8740387",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.4094943",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.4147644",
+        "Acc_Y": "6.3385468",
+        "Acc_Z": "6.844513",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.4284950",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.40931702",
+        "Acc_Y": "6.3649445",
+        "Acc_Z": "7.1059723",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.4435015",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.42793274",
+        "Acc_Y": "6.2877045",
+        "Acc_Z": "7.8045044",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.4575109",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.51297",
+        "Acc_Y": "6.3182373",
+        "Acc_Z": "8.134537",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5014958",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.6519623",
+        "Acc_Y": "6.285736",
+        "Acc_Z": "7.8410187",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5044958",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.539032",
+        "Acc_Y": "6.3271027",
+        "Acc_Z": "7.1954193",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5224956",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.37591553",
+        "Acc_Y": "6.3720245",
+        "Acc_Z": "6.933731",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5374954",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.41970825",
+        "Acc_Y": "6.4143677",
+        "Acc_Z": "7.2274017",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5744991",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.47149658",
+        "Acc_Y": "6.3585052",
+        "Acc_Z": "7.5637817",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5854945",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.52993774",
+        "Acc_Y": "6.3939667",
+        "Acc_Z": "7.208603",
+        "Gyro_X": "-0.16503906",
+        "Gyro_Y": "0.18545532",
+        "Gyro_Z": "0.017150879",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.5964958",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.52993774",
+        "Acc_Y": "6.3939667",
+        "Acc_Z": "7.208603",
+        "Gyro_X": "0.011245728",
+        "Gyro_Y": "0.0025787354",
+        "Gyro_Z": "-0.02178955",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.6004992",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.72869873",
+        "Acc_Y": "6.489914",
+        "Acc_Z": "6.697998",
+        "Gyro_X": "0.011245728",
+        "Gyro_Y": "0.0025787354",
+        "Gyro_Z": "-0.02178955",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.6154971",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.67419434",
+        "Acc_Y": "6.567337",
+        "Acc_Z": "6.6260376",
+        "Gyro_X": "0.011245728",
+        "Gyro_Y": "0.0025787354",
+        "Gyro_Z": "-0.02178955",
+        "Light": "14.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.6635000",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.67419434",
+        "Acc_Y": "6.567337",
+        "Acc_Z": "6.6260376",
+        "Gyro_X": "0.011245728",
+        "Gyro_Y": "0.0025787354",
+        "Gyro_Z": "-0.02178955",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:12.9274984",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.67419434",
+        "Acc_Y": "6.567337",
+        "Acc_Z": "6.6260376",
+        "Gyro_X": "0.02798462",
+        "Gyro_Y": "-0.037139893",
+        "Gyro_Z": "-0.0051727295",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.1244986",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.67419434",
+        "Acc_Y": "6.567337",
+        "Acc_Z": "6.6260376",
+        "Gyro_X": "0.005584717",
+        "Gyro_Y": "-0.019226074",
+        "Gyro_Z": "-0.012786865",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.2134946",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.5225067",
+        "Acc_Y": "6.4595947",
+        "Acc_Z": "7.111862",
+        "Gyro_X": "0.005584717",
+        "Gyro_Y": "-0.019226074",
+        "Gyro_Z": "-0.012786865",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.3234949",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.5225067",
+        "Acc_Y": "6.4595947",
+        "Acc_Z": "7.111862",
+        "Gyro_X": "0.020507813",
+        "Gyro_Y": "-0.01234436",
+        "Gyro_Z": "1.6784668E-4",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.4194950",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.55693054",
+        "Acc_Y": "6.4962006",
+        "Acc_Z": "7.1101227",
+        "Gyro_X": "0.020507813",
+        "Gyro_Y": "-0.01234436",
+        "Gyro_Z": "1.6784668E-4",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.5125014",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.55693054",
+        "Acc_Y": "6.4962006",
+        "Acc_Z": "7.1101227",
+        "Gyro_X": "0.019348145",
+        "Gyro_Y": "-0.008743286",
+        "Gyro_Z": "-0.0048980713",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.7200529",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.55693054",
+        "Acc_Y": "6.4962006",
+        "Acc_Z": "7.1101227",
+        "Gyro_X": "0.024841309",
+        "Gyro_Y": "-0.006713867",
+        "Gyro_Z": "-0.0025024414",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.8060545",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.576355",
+        "Acc_Y": "6.520355",
+        "Acc_Z": "7.0636444",
+        "Gyro_X": "0.024841309",
+        "Gyro_Y": "-0.006713867",
+        "Gyro_Z": "-0.0025024414",
+        "Light": "17.0"
+      }
+    },
+    {
+      "frameStamp": "00:00:13.9240520",
+      "frameAttributes": {
+        "Answer": "hello",
+        "Acc_X": "0.576355",
+        "Acc_Y": "6.520355",
+        "Acc_Z": "7.0636444",
+        "Gyro_X": "0.003692627",
+        "Gyro_Y": "-0.013412476",
+        "Gyro_Z": "1.2207031E-4",
+        "Light": "17.0"
+      }
+    }
+  ]
+}

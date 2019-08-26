@@ -16,14 +16,14 @@ namespace LearningHubAndroid
         TCPManager myTCPmanager;     
 
         private string s = "s";
-        private string Answer = "";
-        private string Acc_X = "";
-        private string Acc_Y = "";
-        private string Acc_Z = "";
-        private string Gyro_X = "";
-        private string Gyro_Y = "";
-        private string Gyro_Z = "";
-        private string Light = "";
+        private string Answer = "Waiting for an answer";
+        private string Acc_X = "0";
+        private string Acc_Y = "0";
+        private string Acc_Z = "0";
+        private string Gyro_X = "0";
+        private string Gyro_Y = "0";
+        private string Gyro_Z = "0";
+        private string Light = "0";
 
         public bool _isRecording = false;
         public bool IsRecording

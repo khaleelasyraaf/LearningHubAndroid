@@ -57,17 +57,18 @@ namespace LearningHubAndroid
         public IDuplexTypedMessagesFactory aReceiverFactory;
         public IMessagingSystemFactory aMessaging;
         public IDuplexInputChannel anInputChannel;
+        
         //Default IpAddress
         public string IPAddress = "tcp://192.168.0.101:8800/";
 
-        private string Answer = "";
-        private string Acc_X = "";
-        private string Acc_Y = "";
-        private string Acc_Z = "";
-        private string Gyro_X = "";
-        private string Gyro_Y = "";
-        private string Gyro_Z = "";
-        private string Light = "";
+        private string Answer = "Waiting for an answer";
+        private string Acc_X = "0";
+        private string Acc_Y = "0";
+        private string Acc_Z = "0";
+        private string Gyro_X = "0";
+        private string Gyro_Y = "0";
+        private string Gyro_Z = "0";
+        private string Light = "0";
         #endregion
 
         public TCPManager(string ipAddress)
@@ -130,45 +131,44 @@ namespace LearningHubAndroid
 
         string SenderID = "";
         /// <summary>
-        /// Event handler that is called when the message is received from the andriod device
+        /// Event handler that is called when the message is received from the android device
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void OnMessageReceived(object sender,
               TypedRequestReceivedEventArgs<String> e)
         {
-            //Console.WriteLine("Received: " + e);
             string s = e.RequestMessage;
-            string indexParameter = s.Substring(0, 2);
+            string indexParameter = s.Substring(0, 3);
             Console.WriteLine("indexParameter: " + indexParameter);
             switch (indexParameter)
             {
-                case "AX":
-                    Acc_X = s.Substring(s.IndexOf(":") + 1);
+
+                case "Acc":
+                    int aindexX = s.IndexOf("X:");
+                    int aindexY = s.IndexOf("Y:");
+                    int aindexZ = s.IndexOf("Z:");
+                    Acc_X = s.Substring(aindexX + 2, (aindexY-aindexX)-2);
+                    Acc_Y = s.Substring(aindexY + 2, (aindexZ-aindexY)-2);
+                    Acc_Z = s.Substring(aindexZ + 2);
                     break;
-                case "AY":
-                    Acc_Y = s.Substring(s.IndexOf(":") + 1);
+                case "Gyr":
+                    int gindexX = s.IndexOf("X:");
+                    int gindexY = s.IndexOf("Y:");
+                    int gindexZ = s.IndexOf("Z:");
+                    Gyro_X = s.Substring(gindexX + 2, (gindexY - gindexX) - 2);
+                    Gyro_Y = s.Substring(gindexY + 2, (gindexZ - gindexY) - 2);
+                    Gyro_Z = s.Substring(gindexZ + 2);
                     break;
-                case "AZ":
-                    Acc_Z = s.Substring(s.IndexOf(":") + 1);
+                case "Lig":
+                    Light = s.Substring(s.IndexOf("L:") + 2);
                     break;
-                case "GX":
-                    Gyro_X = s.Substring(s.IndexOf(":") + 1);
-                    break;
-                case "GY":
-                    Gyro_Y = s.Substring(s.IndexOf(":") + 1);
-                    break;
-                case "GZ":
-                    Gyro_Z = s.Substring(s.IndexOf(":") + 1);
-                    break;
-                case "QQ":
-                    Answer = s.Substring(s.IndexOf(":") + 1);
-                    break;
-                case "LI":
-                    Light = s.Substring(s.IndexOf(":") + 1);
+                case "Que":
+                    Answer = s.Substring(s.IndexOf("Q:") + 2);
                     break;
 
             }
+
             SensorDataReceivedEventArgs args = new SensorDataReceivedEventArgs();
             args.Answer = Answer;
             args.Acc_X = Acc_X;
@@ -182,12 +182,6 @@ namespace LearningHubAndroid
 
             SenderID = e.ResponseReceiverId;
 
-            // Create the response message.
-            //MyResponse aResponse = new MyResponse();
-            //aResponse.Length = e.RequestMessage.Length;
-
-            // Send the response message back to the client.
-            //myReceiver.SendResponseMessage(e.ResponseReceiverId, aResponse.Length.ToString());
         }
 
     }

@@ -20,23 +20,24 @@ namespace LearningHubAndroid
 
         //bool value for switching the record button text and the color
         public static bool isRecordingData = false;
+
         private string ipAddress = "tcp://192.168.0.101:8800/";
 
-        private string Answer = "";
-        private string Acc_X = "";
-        private string Acc_Y = "";
-        private string Acc_Z = "";
-        private string Gyro_X = "";
-        private string Gyro_Y = "";
-        private string Gyro_Z = "";
-        private string Light = "";
+        private string Answer = "Waiting for an answer";
+        private string Acc_X = "0";
+        private string Acc_Y = "0";
+        private string Acc_Z = "0";
+        private string Gyro_X = "0";
+        private string Gyro_Y = "0";
+        private string Gyro_Z = "0";
+        private string Light = "0";
 
         public MainWindow()
         {
+            InitializeComponent();
             myTCPManager = new TCPManager(ipAddress);
             myTCPManager.SensorDataChanged += MyTCPManager_SensorDataChanged;
             myLearningHubManager = new LearningHubManager(myTCPManager);
-            InitializeComponent();
             LearningHubManager.myConnector.startRecordingEvent += MyConnector_startRecordingEvent;
             LearningHubManager.myConnector.stopRecordingEvent += MyConnector_stopRecordingEvent;
         }
@@ -81,9 +82,9 @@ namespace LearningHubAndroid
         /// <summary>
         /// Method to update the accelerometer values
         /// </summary>
-        /// <param name="x"></param>
-        /// <param name="y"></param>
-        /// <param name="z"></param>
+        /// <param name="Acc_X"></param>
+        /// <param name="Acc_Y"></param>
+        /// <param name="Acc_Z"></param>
         public void UpdateAccelerometer(string Acc_X, string Acc_Y, string Acc_Z)
         {
             Application.Current.Dispatcher.Invoke(DispatcherPriority.Background, new Action(
@@ -96,9 +97,9 @@ namespace LearningHubAndroid
         /// <summary>
         /// Method to update the gyroscope values
         /// </summary>
-        /// <param name="x"></param>
-        /// <param name="y"></param>
-        /// <param name="z"></param>
+        /// <param name="Gyro_X"></param>
+        /// <param name="Gyro_Y"></param>
+        /// <param name="Gyro_Z"></param>
         public void UpdateGyroscope(string Gyro_X, string Gyro_Y, string Gyro_Z)
         {
             Application.Current.Dispatcher.Invoke(DispatcherPriority.Background, new Action(
@@ -111,7 +112,7 @@ namespace LearningHubAndroid
         /// <summary>
         /// Method to update the light value
         /// </summary>
-        /// <param name="x"></param>
+        /// <param name="Light"></param>
         public void UpdateLight(string Light)
         {
             Application.Current.Dispatcher.Invoke(DispatcherPriority.Background, new Action(
@@ -122,9 +123,9 @@ namespace LearningHubAndroid
         }
 
         /// <summary>
-        /// Method to update the answer received from the Android
+        /// Method to update the answer/text received from the Android device
         /// </summary>
-        /// <param name="x"></param>
+        /// <param name="Answer"></param>
         public void UpdateAnswer(string Answer)
         {
             Application.Current.Dispatcher.Invoke(DispatcherPriority.Background, new Action(
@@ -134,11 +135,14 @@ namespace LearningHubAndroid
                         }));
         }
 
+        // Button to record the sensor data 
         private void RecordingButton_Click(object sender, RoutedEventArgs e)
         {
             myLearningHubManager.IsRecording = !myLearningHubManager.IsRecording;
             StartRecordingData();
         }
+
+        // Button to send the question/text to the Android device
         private void SendButton_Click(object sender, RoutedEventArgs e)
         {
             Debug.WriteLine("SendButtonClicked");
